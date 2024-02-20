@@ -43,3 +43,5 @@ def hi_there(b_name):
 
 hi_there("Faisal")
 
+
+print('Hello world')
