@@ -28,3 +28,5 @@ def hi_there(b_name):
     print(f"Hi this is {b_name} making a change.")
 
 hi_there("Faisal")
+
+print('Hello world')
