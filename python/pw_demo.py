@@ -2,7 +2,7 @@
 # name = 'Rhett'
 # print("welcome to CT" + name)
 
-# print(f"welcome to CT {name}")
+# print(f"welcome to CT {name}, we are excited to begin this journey with you Padawan")
 
 
 def namer(f_name):
