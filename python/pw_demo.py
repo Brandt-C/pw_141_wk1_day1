@@ -18,8 +18,18 @@ print(namer("Adrian"))
 # print(namer("Adrian") == 3)
 # name2 = "Adrian"
 
-
 # def adder(num1, num2):
 #     return num1 + num2
 
+
+
+
+
+
+
+
 # print(adder(5, 6))
+
+# Howdy partner
+
+#Thanks have a great night
