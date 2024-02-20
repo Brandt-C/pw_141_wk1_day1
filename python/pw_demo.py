@@ -8,6 +8,7 @@
 def namer(f_name):
     print(f"WELCOME WELCOME WELCOME CT {f_name}")
     print("this will run too!")
+    Name = "Cahliyal"
 
 # namer("Jenequa")
 # namer("Zack")
